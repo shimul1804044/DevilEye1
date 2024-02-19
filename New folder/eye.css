@@ -1,0 +1,20 @@
+/*resulting default margin and padding */
+
+* {
+    margin:0;
+    padding:0;
+}
+
+nav ul {
+    list-style-type: lower-roman;
+}
+
+Nav ul li {
+    display:inline-flex;
+    margin-right: 20pex;
+}
+
+nav ul li a {
+    color: #0f2d99;
+    text-decoration: none;
+}
