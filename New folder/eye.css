@@ -15,6 +15,6 @@ Nav ul li {
 }
 
 nav ul li a {
-    color: #0f2d99;
-    text-decoration: none;
+    color: #0be742;
+    text-decoration:line-through;
 }
