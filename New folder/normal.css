@@ -1,5 +1,22 @@
-/* Global styles */
-p {
-    color: red;
-    text-align: center;
-  }
+h1{
+  color: black;
+  font-size: 100px;
+}
+body{
+  
+  background-size: cover;
+}
+p{
+  color: black;
+  font-size: 40px;
+  border-style: ridge;
+}
+
+.my-div{
+  height: 500px;
+  width: 500px;
+  background-color: aqua;
+  border-radius:50px 100px 50px 100px;
+
+
+}
